@@ -8,9 +8,9 @@ One of my favorite projects is **[DocuBook](https://github.com/mywildancloud/doc
 
 Feel free to deploy your own version of DocuBook on Vercel by clicking the button below:
 
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/mywildancloud/docubook) ```bash
-npx create-docubook <project-directory>
-```
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/mywildancloud/docubook)
+
+`npx create-docubook <project-directory>`
 
 ## ☕ Support My Work
 
