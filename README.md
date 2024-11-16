@@ -10,6 +10,14 @@ Feel free to deploy your own version of DocuBook on Vercel by clicking the butto
 
 [![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/mywildancloud/docubook)
 
+## Quick Setup with npx
+
+For a faster setup, use the `npx` command to create a new DocuBook project in one step:
+
+```bash
+npx create-docubook <project-directory>
+```
+
 ## ☕ Support My Work
 
 If you’d like to support my work, consider buying me a coffee on Trakteer:
