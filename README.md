@@ -10,7 +10,22 @@ Feel free to deploy your own version of DocuBook on Vercel by clicking the butto
 
 [![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/mywildancloud/docubook)
 
-`npx create_docu`
+```npx create_docu```
+
+- command output
+```? Enter a name for your project directory: (docubook)
+
+Creating a new Docubook project in /Users/wildan/docubook from the main branch...
+✔ Docubook project successfully created in /Users/wildan/docubook!
+
+Next steps:
+1. Navigate to your project directory:
+   cd docubook
+2. Install dependencies:
+   npm install
+3. Start the development server:
+   npm run dev
+```
 
 ## ☕ Support My Work
 
