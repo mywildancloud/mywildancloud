@@ -30,10 +30,8 @@ Next steps:
    npm run dev
 ```
 
-## ☕ Support My Work
+## Hire Me
 
-If you’d like to support my work, consider buying me a coffee on Trakteer:
+Do you need my help working on a documentation project with DocuBook?
 
-[![Support on Trakteer](https://img.shields.io/badge/Support%20on-Trakteer-red?style=for-the-badge&logo=trakteer)](https://trakteer.id/wildan.nrs/tip?quantity=5)
-
-Thank you for stopping by! Feel free to explore my repositories, and don’t hesitate to reach out if you have any questions or suggestions.
+[Hire Me](https://www.docubook.pro/hire-me)
