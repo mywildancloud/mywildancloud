@@ -32,6 +32,6 @@ Next steps:
 
 ## Hire Me
 
-Do you need my help working on a documentation project with DocuBook? click button below to `Hire Me`
+Do you need my help working on a documentation project with DocuBook? click link below to `Hire Me`
 
-[![Hire Me](https://i.ibb.co.com/P6CfGwH/Image.png)](https://www.docubook.pro/hire-me)
+[Hire Me](https://www.docubook.pro/hire-me)
