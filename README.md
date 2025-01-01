@@ -15,7 +15,7 @@ npx create_docu
 ```
 
 ### command output
-```
+````plaintext
 ? Enter a name for your project directory: (docubook)
 
 Creating a new Docubook project in /Users/wildan/docubook from the main branch...
@@ -28,7 +28,7 @@ Next steps:
    npm install
 3. Start the development server:
    npm run dev
-```
+````
 
 ## Hire Me
 
